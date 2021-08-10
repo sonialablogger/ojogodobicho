@@ -6,7 +6,7 @@ A fase de intensa especulação financeira na bolsa de valores nos primeiros ano
 
 Hoje, o jogo bicho continua a ser praticado em larga escala nas ruas das principais cidades brasileiras, embora seja considerado um delito sob a lei criminal brasileira.
 
-#História
+# História
 
 A origem do jogo dos insetos data do fim do Império e do início do período republicano. Jornais da época relatam que, para melhorar as finanças do jardim zoológico localizado no bairro da Vila Isabel, que estava em dificuldades financeiras, João Batista Viana Drummond, um senhor de terras e escravos, criou uma loteria na qual o apostador escolheu um dos 25 animais do zoológico.
 
