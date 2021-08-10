@@ -1,4 +1,4 @@
-# ojogodobicho
+# o jogo do bicho
 
 <a href="https://www.eojogodobicho.com">O jogo do bicho</a> é uma troca ilegal de apostas em números que representam animais. Foi criado em 1892 pelo Barão João Batista Viana Drummond, fundador do Zoológico do Rio de Janeiro, em Vila Isabel, Rio de Janeiro, Brasil. 1
 
